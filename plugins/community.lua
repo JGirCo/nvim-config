@@ -7,7 +7,7 @@ return {
   { import = "astrocommunity.colorscheme.rose-pine" },
   { import = "astrocommunity.indent.mini-indentscope" },
   { import = "astrocommunity.indent.indent-blankline-nvim" },
-  -- { import = "astrocommunity.pack.rust" },
+  { import = "astrocommunity.pack.rust" },
   {
     "rose-pine",
     opts = {
